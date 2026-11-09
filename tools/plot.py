@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# Written with assistance from Claude (Anthropic); see README for details
 import sys
 import pandas as pd
 import numpy as np

@@ -1,3 +1,4 @@
+# Written with assistance from Claude (Anthropic); see README for details
 """
 Симулятор потокового алгоритма — точная копия того, что считает плата.
 

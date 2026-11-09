@@ -1,3 +1,4 @@
+// Written with assistance from Claude (Anthropic); see README for details
 #include <LittleFS.h>
 #include <M5Unified.h>
 #include <math.h>

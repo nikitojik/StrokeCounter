@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Выгрузка записей с платы на компьютер.
 
@@ -9,7 +8,7 @@
 
 Требуется: pip install pyserial
 """
-
+# Written with assistance from Claude (Anthropic); see README for details
 import sys
 import time
 import glob
